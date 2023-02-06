@@ -1,0 +1,53 @@
+.subheadingContainer {
+    background-color: skyblue;
+    padding: 30%;
+}
+
+.bodyContainer {
+        background-color: green;
+    padding: 70%;
+}
+
+h1 {
+    font-size: 5em;
+    font-weight: 500px;
+    text-align: center;
+}
+
+.img {
+    display: flex;
+    float: left;
+    flex-wrap: wrap;
+}
+
+.navbar-brand {
+    color: blue
+}
+
+.nav {
+    color: dark gray;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+    .imageWrapper {
+        background-color: blue;
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        height: 800px;
+    }
+
+
+/* .p use this for paragraph styles when I type the paragraph */
+
+/* .img */
+
+/*  .footer */
+
+/* .????   flex-wrap for image on homepage to wrap */
+
+/* use javascript classes/react components to change photo when you click the button reference:mimo */
